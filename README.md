@@ -16,3 +16,4 @@ Também disponibilizaremos o cliente do Tibia 10 totalmente funcional com o OTBR
 -> [Grupo do Discord]: https://discord.gg/7nZd7M6
 
 ## Créditos ao Guilherme Sidney pelas ferramentas e desenvolvimento do cliente 10/sprites 12
+## Créditos ao EduBart pelo desenvolvimento do OTClient
