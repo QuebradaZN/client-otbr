@@ -17,4 +17,4 @@ Também disponibilizaremos o cliente do Tibia 10 totalmente funcional com o OTBR
 
 ## Créditos ao Guilherme Sidney pelas ferramentas e desenvolvimento do cliente 10/sprites 12
 ## Créditos ao EduBart pelo desenvolvimento do OTClient
-#OBS: Para mudar o ip do cliente, vá até a pasta 'modules/client_entergame/entergame.lua' e altere na linha 11 para o ip desejado (o 127.0.0.1 é para uso em localhost) 
+# OBS: Para mudar o ip do cliente, vá até a pasta 'modules/client_entergame/entergame.lua' e altere na linha 11 para o ip desejado (o 127.0.0.1 é para uso em localhost) 
