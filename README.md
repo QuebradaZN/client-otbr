@@ -12,8 +12,9 @@ Também disponibilizaremos o cliente do Tibia 10 totalmente funcional com o OTBR
 * Logo, não será um cliente com suporte para o Tibia 11/12, apenas iremos atualizar o .spr e .dat periodicamente para que o cliente tenha sempre compartibilidade com o projeto OTBr, de acordo com as features que o mesmo receber do Tibia Global. 
 
 # Contato para suporte / ajuda:
--> [Grupo do Whatsapp]: https://chat.whatsapp.com/ELM9aLYegRC0dMid7Xa5hH
--> [Grupo do Discord]: https://discord.gg/7nZd7M6
+* [Grupo do Whatsapp]: https://chat.whatsapp.com/ELM9aLYegRC0dMid7Xa5hH
+
+* [Grupo do Discord]: https://discord.gg/7nZd7M6
 
 ## Créditos ao Guilherme Sidney pelas ferramentas e desenvolvimento do cliente 10/sprites 12
 ## Créditos ao EduBart pelo desenvolvimento do OTClient
