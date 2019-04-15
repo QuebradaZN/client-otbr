@@ -9,7 +9,6 @@ Makefile
 *.o
 *.gch
 *.a
-*.exe
 *.kdev*
 *.cbp
 *~
@@ -38,7 +37,6 @@ Thumbs.db
 src/framework/graphics/dx/
 modules/.project/modules.sublime-workspace
 vc14/.vs/
-*.dll
 
 #################
 ## Visual Studio
