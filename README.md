@@ -15,3 +15,4 @@ Também disponibilizaremos o cliente do Tibia 10 totalmente funcional com o OTBR
 -> [Grupo do Whatsapp]: https://chat.whatsapp.com/ELM9aLYegRC0dMid7Xa5hH
 -> [Grupo do Discord]: https://discord.gg/7nZd7M6
 
+## Créditos ao Guilherme Sidney pelas ferramentas e desenvolvimento do cliente 10/sprites 12
