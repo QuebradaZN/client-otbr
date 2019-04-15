@@ -1,9 +1,9 @@
-# client-otbr
+# Client-OTBR
 Clientes compatíveis com o OTBR Project
 
-Repositório do projeto original: https://github.com/edubart/otclient/blob/master/README.md
+# Repositório do projeto original: https://github.com/edubart/otclient/blob/master/README.md
 
-Este repositório tem como intuito criar um cliente exclusivo para o OTBR, nossa intenção é criar um cliente que "substitua" a longo prazo o Tibia 11 e 12, visto que a comunidade do Open Tibia está encontrando dificuldades muito grandes para lidar com as funcionalidades do novo cliente do Tibia. 
+-> Este repositório tem como intuito criar um cliente exclusivo para o OTBR, nossa intenção é criar um cliente que "substitua" a longo prazo o Tibia 11 e 12, visto que a comunidade do Open Tibia está encontrando dificuldades muito grandes para lidar com as funcionalidades do novo cliente do Tibia. 
 Sabemos que o OTC tem muito que evoluir, por isso queremos fazer isso a longo prazo, então abriremos esse repositório para testes, porém com total compatibilidade com o projeto OTBR. 
 Também disponibilizaremos o cliente do Tibia 10 totalmente funcional com o OTBR
 
