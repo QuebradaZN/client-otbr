@@ -726,6 +726,7 @@ local function initMarketItems()
           }
 
           -- add new market item
+          table.insert(marketItems[marketData.category], marketItem)
           itemSet[marketData.tradeAs] = true
       end
     end
