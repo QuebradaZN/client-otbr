@@ -57,6 +57,7 @@
 	<version value="983" string="9.83" dat="51407B67" spr="51407BC7" otb="47"/>
 	<version value="985" string="9.85" dat="51641A1B" spr="51641A84" otb="48"/>
 	<version value="986" string="9.86" dat="5170E904" spr="5170E96F" otb="49"/>
+	<version value="1000" string="10.00" dat="4688" spr="58F9D570" otb="0"/>
 	<version value="1010" string="10.10" dat="51E3F8C3" spr="51E3F8E9" otb="50"/>
 	<version value="1020" string="10.20" dat="5236F129" spr="5236F14F" otb="51"/>
 	<version value="1021" string="10.21" dat="526A5068" spr="526A5090" otb="52"/>

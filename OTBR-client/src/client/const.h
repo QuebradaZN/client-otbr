@@ -22,6 +22,7 @@
 
 #ifndef CLIENT_CONST_H
 #define CLIENT_CONST_H
+#define NETWORK_MAX_SIZE 15360
 
 namespace Otc
 {
