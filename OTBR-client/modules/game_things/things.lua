@@ -18,9 +18,10 @@ function isLoaded()
 end
 
 function load()
-  local version = g_game.getClientVersion()
 
+  local version = g_game.getClientVersion()
   local datPath, sprPath
+  
   if filename then
     datPath = resolvepath('/things/1200/')
     sprPath = resolvepath('/things/1200/')
@@ -28,8 +29,20 @@ function load()
     datPath = resolvepath('/things/1200/Tibia.dat')
     sprPath = resolvepath('/things/1200/Tibia.spr')
   end
+  
+  if filename then
+    otbPath = resolvepath('/items/items.otb')
+    xmlPath = resolvepath('/items/items.xml')
+  end
 
   local errorMessage = ''
+  if g_things.loadOtb(otbPath) and g_things.loadXml(xmlPath) then
+    errorMessage = errorMessage .. tr("Loading otb", otbPath)
+	errorMessage = errorMessage .. tr("Loading otb", xmlPath)
+	g_things.loadOtb(otbPath)
+	g_things.loadXml(xmlPath)
+	end
+  
   if not g_things.loadDat(datPath) then
     errorMessage = errorMessage .. tr("Unable to load dat file, please place a valid dat in '%s'", datPath) .. '\n'
   end

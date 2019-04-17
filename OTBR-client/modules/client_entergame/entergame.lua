@@ -118,7 +118,7 @@ function EnterGame.init()
   if g_app.isRunning() and not g_game.isOnline() then
     enterGame:show()
   end
-   EnterGame.setUniqueServer(serverIP, 7171, 1099)
+   EnterGame.setUniqueServer(serverIP, 7171, 1098, 270, 210)
 end
 function EnterGame.firstShow()
   EnterGame.show()
